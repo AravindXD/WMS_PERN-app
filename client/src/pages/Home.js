@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Customer from "/Users/aravind1803/projects/DBMS_proj/client/src/components/Customer";
-import Admin from "/Users/aravind1803/projects/DBMS_proj/client/src/components/Admin";
+import Customer from "../components/Customer";
+import Admin from "../components/Admin";
 
 export default function Home() {
     const [type, setType] = useState("signIn");
