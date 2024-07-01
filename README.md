@@ -41,7 +41,7 @@ Follow these steps to set up the project on your local machine
 
 2. ### Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/AravindXD/WMS_PERN-app
     ```
 
 3. ### Database Creation
@@ -51,7 +51,7 @@ Refer to the below links if necessary:
 - [How to Import Database(.sql) in PostgreSql](https://youtu.be/3AKIA8pu8YY?si=J_4XqB05Mq6oc8ib)
 
 >[!CAUTION]
->- Make sure the credentials are changed accordingly in the [server/db.js](server/db.js)
+> Make sure the credentials are changed accordingly in the [server/db.js](server/db.js)
 
 4. ### Shell commands
 ```sh
